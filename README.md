@@ -1,4 +1,4 @@
-# **🎬 Letterboxd Analysis**
+# **Letterboxd Analysis**
 
 Projeto de análise de dados baseado em 10.000 filmes do Letterboxd.  
 O objetivo é explorar, processar e analisar informações de filmes usando um pipeline completo em **AWS (S3, Glue, Glue Data Catalog, Athena)**, com suporte a análises em **Python/Jupyter**.
@@ -7,7 +7,7 @@ Dataset original: [Letterboxd 10,000 Movies (Kaggle)](https://www.kaggle.com/dat
 
 ---
 
-# **🚀 Visão Geral do Projeto**
+# **Visão Geral do Projeto**
 
 Este projeto cobre todo o ciclo de vida de dados:
 
@@ -22,7 +22,7 @@ Este projeto cobre todo o ciclo de vida de dados:
 
 ---
 
-# **📂 Estrutura no S3**
+# **Estrutura no S3**
 
 - **raw-data/** → Dataset original (CSV)  
 - **processed-data/** → Saída do Glue Visual ETL (Parquet)  
@@ -37,7 +37,7 @@ Este projeto cobre todo o ciclo de vida de dados:
 
 ---
 
-# **🛠️ Stack Tecnológica**
+# **Stack Tecnológica**
 
 - **AWS S3** → armazenamento de dados em camadas.  
 <img width="1333" height="354" alt="image" src="https://github.com/user-attachments/assets/a10a0560-16a7-4c26-ad55-399580541a2c" />  
@@ -72,7 +72,7 @@ Este projeto cobre todo o ciclo de vida de dados:
 
 ---
 
-# **📊 Exemplos de Perguntas Respondidas com Athena**
+# **Exemplos de Perguntas Respondidas com Athena**
 
 - Quais os países mais frequentes nas produções?  
 - Quais gêneros têm maiores médias de nota?  
@@ -81,7 +81,7 @@ Este projeto cobre todo o ciclo de vida de dados:
 
 ---
 
-# **📓 Jupyter Notebooks**
+# **Jupyter Notebooks**
 
 Além do pipeline em AWS, o projeto conta com notebooks em Python para:  
 
@@ -91,13 +91,13 @@ Além do pipeline em AWS, o projeto conta com notebooks em Python para:
 
 ---
 
-# **📌 Próximos Passos**
+# **Próximos Passos**
 
 - Documentar notebooks de análise com exemplos de gráficos.  
 
 ---
 
-# **💡 Mensagem Final**
+# **Condiderações Finais**
 
 Este projeto é fruto do meu aprendizado contínuo.  
 Sei que ainda há muito a melhorar, tanto no código quanto na forma de estruturar análises e documentações.  
