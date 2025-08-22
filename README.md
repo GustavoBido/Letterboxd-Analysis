@@ -31,6 +31,12 @@ Este projeto cobre todo o ciclo de vida de dados:
 
 ---
 
+# **Arquitetura Simplificada**
+
+<img width="1358" height="430" alt="image" src="https://github.com/user-attachments/assets/6bdc67e9-f750-440b-b455-9451407b04ff" />
+
+---
+
 # **🛠️ Stack Tecnológica**
 
 - **AWS S3** → armazenamento de dados em camadas.  
